@@ -1,4 +1,5 @@
-# Untitled
+Documentación completa:
+https://playful-appeal-bd8.notion.site/Taller-Covid-19-Estad-stica-I-UIS-aecc52197fc4475d92fccb978ba43c6f
 
 ![Untitled%203d1450709a5d422a94467c4dab65589f/Untitled.png](Untitled%203d1450709a5d422a94467c4dab65589f/Untitled.png)
 

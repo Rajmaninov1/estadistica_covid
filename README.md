@@ -1,23 +1,6 @@
 Documentación completa:
 https://playful-appeal-bd8.notion.site/Taller-Covid-19-Estad-stica-I-UIS-aecc52197fc4475d92fccb978ba43c6f
 
-![Untitled%203d1450709a5d422a94467c4dab65589f/Untitled.png](Untitled%203d1450709a5d422a94467c4dab65589f/Untitled.png)
-
-Universidad Industrial de Santander
-Escuela de Ingeniería de Sistemas
-
-ESTADÍSTICA I: Grupos J1, D1 y B1
-TALLER 1 (20 % )
-Profesores: Giovanni Calderon Silva y Eliana Bonalde
-Fecha límite de entrega: 20/06/2020, 6:30 p.m.
-
----
-
-```
-TEMA EVALUADO: Estadística descriptiva. Ver plan de curso para los distintos apartados a cubrir en el tema.
-CRITERIOS DE EVALUACIÓN : Se quiere que el estudiante demuestre su habilidad en usar las distintas definiciones dadas en el tema al aplicarlas a un problema real. Se
-busca motivar la capacidad de adquirir conocimiento de manera independiente, su capacidad de síntesis y de analizar resultados nuevos parael.
-```
 
 Los coronavirus (CoV) son virus que surgen periodicamente en diferentes areas del mundo y que causan Infección Respiratoria Aguda (IRA), es decir, gripa, que pueden llegar a ser leve, moderada o grave. El nuevo Coronavirus (COVID-19) ha sido catalogado por la Organizacion Mundial de la Salud como una emergencia en salud pública de importancia internacional. Se han identificado casos en todos los continentes y, el 6 de marzo se confirmo el primer caso en Colombia. Desde ese momento, los casos de contagios y muertes han ido en aumento hasta el presente.
 

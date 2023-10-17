@@ -28,8 +28,3 @@ A partir de los resultados obtenidos presente un analisis (desde la opinión de 
 8. Utilice la grafica conveniente para mostrar la distribución de infectados según el sexo.
 
 A partir de los resultados obtenidos presente un analisis (desde la opinión de su grupo) del porque de los mismos. Utilice las graficas o tablas que consideren apropiadas para mostrar dicho análisis. Si lo consideran necesario, definan resultados propios para lograr un mejor entendimiento del avance de la pandemia.
-
-```
-El verdadero signo de la inteligencia no es el conocimiento, sino la imaginacion. ́
-Albert Einstein
-```
